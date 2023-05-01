@@ -14,7 +14,7 @@ const Home =()=>{
             <div className='container px-4 py-4 '>
                 <section className="relative text-center md:text-left lg:pb-24">
                     <h2 className="pt-4 pb-3 pl-2 text-4xl font-extrabold text-transparent pr-4mb-4 bg-gradient-to-b from-blue-600 via-red-500 to-purple-600 bg-clip-text mb-text-4xl 2xl:text-8xl lg:text-6xl md:pt-32 lg:mb-16 xl:text-6xl">Buen Feliz<br/>
-                          Cumpleaños 💚💚
+                          Cumpleaños! 💚💚
                     </h2>
                     <div className='inline-flex flex-col pb-2 pl-2 text-center'>
                         <Link to='/about' className='px-6 py-2 mb-1 text-xl font-semibold text-white transition bg-purple-600 lg:text-4xl rounded-3xl ring-transparent focus:outline-none hover:bg-rose-300'>
