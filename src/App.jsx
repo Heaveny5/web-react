@@ -9,7 +9,7 @@ import Userpage from './pages/userpage'
 import Dashboard from './pages/dashboard'
 import Donations from './pages/donations'
 import Footer from './components/footer'
-import { Helmet } from 'react-helmet'
+
 //import Footer from './components/footer'
 
 //acá podemos hacer que route tenga dentro otra route osea 
